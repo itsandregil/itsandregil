@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there, I'm Andre 👋
 
-<!--
-**itsandregil/itsandregil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a **computer science** student based in Medellin, Colombia. 
 
-Here are some ideas to get you started:
+I always want to learn and create new things, and if I have an idea I'm likely going try to build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🗣️ I speak Spanish, English and I'm currently learning Italian
+- 🏃🏽 I love sports, specially basketball and running
+- 🏦 I am interested in fintech, finance and investing
+
+### Languages and Tools
+
+This are the tools and languages I have worked with
+
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/git/git.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/github/github.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/typescript/typescript.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/go/go.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/fastapi/fastapi.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redis/redis.png"/>
+<br/>
+<br/>
