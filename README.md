@@ -2,7 +2,7 @@
 
 I'm currently a **computer science** student based in Medellin, Colombia. 
 
-I always want to learn and create new things, and if I have an idea I'm likely going try to build it.
+I always want to learn and create new things, and if I have an idea I'm likely going to try to build it.
 
 ### About Me
 - 🗣️ I speak Spanish, English and I'm currently learning Italian
