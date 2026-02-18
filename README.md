@@ -22,5 +22,7 @@ This are the tools and languages I have worked with
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/nodejs/nodejs.png"/>
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png"/>
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/redis/redis.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/pytorch/pytorch.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/scikit-learn/scikit-learn.png"/>
 <br/>
 <br/>
